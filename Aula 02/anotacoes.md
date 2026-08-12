@@ -17,7 +17,7 @@ A[Cliente]<--Dados--> B[Servidor]
 O Moba será a interface para o meu servidor de desenvolvimento
 
 >O acesso é via SSH
-ip 192.168.10.75
+ip 192.168.10.104
 username root
 porta 2222
 
