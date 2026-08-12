@@ -41,3 +41,9 @@ olha valores na tabela
  DELETE FROM produtos WHERE id = 1;
 ```
 deleta dados se precisar
+---
+atividade 04 prints
+
+![alt text](image.png)
+
+![alt text](image-1.png)
