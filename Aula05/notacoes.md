@@ -39,5 +39,15 @@ para deletar
 ```sql
 DELETE FROM produtos WHERE nome='Iphone 17';
 ```
-
+### atividade
 atividade ![alt text](image.png)
+
+selecionando dados especificos
+![alt text](image-1.png)
+
+trocando notas ![alt text](image-2.png)
+![alt text](image-3.png)
+
+deletando filmes ![alt text](image-4.png)
+
+![alt text](image-5.png)
